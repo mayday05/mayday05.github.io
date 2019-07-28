@@ -20,12 +20,9 @@ sidebar-avatar: /img/author-pengyuyan.png      # use absolute URL, seeing it's u
 
 # SNS settings 社交账号
 RSS: false
-# weibo_username:     qiubaiying
 zhihu_username:     qiubaiying
 github_username:    qiubaiying
-facebook_username:  baiying.qiu.7
 jianshu_username:   e71990ada2fd
-#twitter_username:   qiubaiying
 
 
 
