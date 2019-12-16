@@ -4,7 +4,7 @@ SEOTitle: 龙行秀的博客 # 显示在浏览器上搜索的时候显示的标�
 header-img: img/post-bg-desk.jpg # 显示在首页的背景图片
 email: meixiufeiyu@163.com
 description: "Every failure is leading towards success." # 网站介绍
-keyword: "BY, BY Blog, 柏荧的博客, qiubaiying, 邱柏荧, iOS, Apple, iPhone" # 关键词
+keyword: "SpringCloud、分布式" # 关键词
 url: "https://mayday05.github.io/"          # your host, for absolute URL 博客地址
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/mayday05/mayday05.github.io.git" # you code repository
@@ -22,7 +22,7 @@ sidebar-avatar: /img/author-pengyuyan.png      # use absolute URL, seeing it's u
 RSS: false
 zhihu_username:     MayFly
 github_username:    mayday05 # page.html文件会自动拼该网站的根地址
-jianshu_username:   longxingxiu
+jianshu_username:   94949b31df95 # 每个人的唯一性ID
 
 
 
