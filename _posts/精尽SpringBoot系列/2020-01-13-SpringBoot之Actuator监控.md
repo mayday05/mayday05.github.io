@@ -1,3 +1,25 @@
+---
+layout:     post
+title:      SpringBoot之Actuator监控
+subtitle:   SpringBoot之Actuator
+date:       2020-01-13
+author:     Mayday
+header-img: img/post-bg-universe.jpg
+catalog: true
+tags:
+    - 精进SpringBoot系列
+---
+
+
+
+
+
+[TOC]
+
+
+
+------
+
 
 
 ## 一、Spring Boot Actuator作用
