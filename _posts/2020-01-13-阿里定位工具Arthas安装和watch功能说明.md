@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      2020-01-13 阿里定位工具Arthas安装和watch功能说明
+title:      阿里定位工具Arthas安装和watch功能说明
 subtitle:   Arthas
 date:       2020-01-13
 author:     Mayday
